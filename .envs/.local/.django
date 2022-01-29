@@ -1,0 +1,17 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+IPYTHONDIR=/app/.ipython
+# Redis
+# ------------------------------------------------------------------------------
+REDIS_URL=redis://redis:6379/0
+
+AWS_ACCESS_KEY_ID=AKIARHRKLPCR2GDV5EIY
+AWS_SECRET_ACCESS_KEY=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
+
+# Celery
+# ------------------------------------------------------------------------------
+
+# Flower
+CELERY_FLOWER_USER=fIUMzOHNfyOkMBqJTtIlfxjAQkHXxGQW
+CELERY_FLOWER_PASSWORD=5PVeeEcBXBIZJ9GLgPKZR7CwadEK7aVpmfWOigNe5AmHW3izOoPqxXrNt38O6wIH

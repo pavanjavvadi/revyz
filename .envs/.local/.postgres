@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=revyz_backend
+POSTGRES_USER=bdMbXJTkvmsgahWvLbmubVQjMYZodfFd
+POSTGRES_PASSWORD=0n1QyzT71Jsv6waLgVKSP7qSUxDUYu3998u6DQ8nYblqI5EEofRTt97VXCzzjfJW
