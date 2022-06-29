@@ -6,8 +6,6 @@ IPYTHONDIR=/app/.ipython
 # ------------------------------------------------------------------------------
 REDIS_URL=redis://redis:6379/0
 
-AWS_ACCESS_KEY_ID=AKIARHRKLPCR2GDV5EIY
-AWS_SECRET_ACCESS_KEY=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
 
 # Celery
 # ------------------------------------------------------------------------------
