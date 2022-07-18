@@ -32,7 +32,7 @@ django-filter # https://django-filter.readthedocs.io/en/stable/guide/install.htm
 # ------------------------------------------------------------------------------
 drf-yasg # https://drf-yasg.readthedocs.io/en/stable/
 djangorestframework-simplejwt # https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
-dj-rest-auth==2.1.5 # https://dj-rest-auth.readthedocs.io/en/latest/index.html
+dj-rest-auth==2.2.5 # https://dj-rest-auth.readthedocs.io/en/latest/index.html
 drf-access-policy==0.9.2 # https://rsinger86.github.io/drf-access-policy/
 
 boto3
